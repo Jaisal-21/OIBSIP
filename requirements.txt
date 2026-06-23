@@ -1,0 +1,6 @@
+1.Requests
+2.SpeechRecognition
+3.PyAudio
+4.pyttsx3
+5.pywhatkit
+6.plyer
