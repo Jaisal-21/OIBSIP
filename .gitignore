@@ -1,0 +1,16 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Database
+*.db
+
+# Virtual environment
+venv/
+.env
+
+# Logs
+*.log
